@@ -1,0 +1,24 @@
+.panel a{
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+    font-size: 17px; /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+}
+
+li {
+    list-style-type: none; /* Убираем маркеры у списка */
+   }
+
+   ul li {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   }
+   a {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 25%; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+    
+    
+   }
